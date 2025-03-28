@@ -1,7 +1,7 @@
 # ASCII UML to Visual UML Converter
 
 ## Overview
-This project provides a Python-based solution to convert ASCII art UML diagrams into graphical UML diagrams using **Graphviz**. It is designed to enhance the visualization of UML class diagrams from text-based representations to high-quality images.
+This project provides a Python-based solution to convert ASCII art UML diagrams into graphical UML diagrams using **Graphviz**. It is designed to enhance the visualization of UML class diagrams from text-based representations to high-quality images. This tool is very helpful to convert chatgpt, deepseek or AI model uml output to actual uml class diagram.
 
 ## Features
 - Parses ASCII UML diagrams into structured data.
