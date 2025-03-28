@@ -46,6 +46,7 @@ ascii_to_uml(ascii_uml, output_file="uml_diagram")
 ## Screenshots:
 
 # Example Usage
+```
 ascii_uml = """
 +-------------------------+       +-----------------------------+
 |      InputData          |       |         TripPost            |
@@ -69,6 +70,7 @@ ascii_uml = """
 | - kmPerLiterToMilesPerGallon()|
 +-------------------------+
 """
+```
 
 ![trip_uml](https://github.com/user-attachments/assets/c095aaca-b28e-416f-b1e9-eecd666bacbc)
 
